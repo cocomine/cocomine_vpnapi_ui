@@ -1,0 +1,4 @@
+.env filter=git-crypt diff=git-crypt
+.sentryclirc filter=git-crypt diff=git-crypt
+
+.gitattributes !filter=git-crypt !diff=git-crypt
